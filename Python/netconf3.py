@@ -4,7 +4,7 @@ import xmltodict
 from pprint import pprint
 
 router = {"host": "10.10.20.48", "port": "830",
-          "user": "developer", "pass": "C1sco12345"}
+          "user": "developer", "pass": "Cisco12345"}
 
 netconf_filter = """
     <filter>
